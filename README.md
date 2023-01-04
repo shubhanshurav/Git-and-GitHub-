@@ -2,7 +2,7 @@
 
 This lesson covers the basics of GitHub, a platform to host and manage changes to your code.
 
-![Intro to GitHub]
+![Intro to GitHub](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/webdev/png/webdev101-github.png?raw=true)
 
 ## Introduction
 
