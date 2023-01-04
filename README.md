@@ -165,8 +165,6 @@ The main reason for putting things on GitHub was to make it possible to collabor
 
 ## Working on projects with others
 
-[![Git and GitHub basics video](https://img.youtube.com/vi/bFCM-PC3cu8/0.jpg)](https://www.youtube.com/watch?v=bFCM-PC3cu8)
-
 In your repository, navigate to `Insights > Community` to see how your project compares to recommended community standards.
 
    Here are some things that can improve your GitHub repo:
@@ -265,10 +263,6 @@ Update your current local working branch with all new commits from the correspon
 ## How to contribute to open source
 
 First, let's find a repository (or **repo**) on GitHub of interest to you and to which you'd like to contribute a change. You will want to copy its contents to your machine.
-
-✅ A good way to find 'beginner-friendly' repos is to [search by the tag 'good-first-issue'](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/).
-
-![Copy a repo locally](images/clone_repo.png)
 
 There are several ways of copying code. One way is to "clone" the contents of the repository, using HTTPS, SSH, or using the GitHub CLI (Command Line Interface). 
 
