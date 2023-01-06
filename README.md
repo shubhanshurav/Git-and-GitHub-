@@ -31,7 +31,7 @@ Navigate to [github.com](https://github.com/) and create an account if you haven
 ✅ GitHub isn't the only code repository in the world; there are others, but GitHub is the best known
 
 ### Preparation
-
+ 
 You'll need both a folder with a code project on your local machine (laptop or PC), and a public repository on GitHub, which will serve as an example for how to contribute to the projects of others.  
 
 ---
