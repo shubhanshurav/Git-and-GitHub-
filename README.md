@@ -20,7 +20,7 @@ Before you begin, you'll need to check if Git is installed. In the terminal type
 If Git is not installed, [download Git](https://git-scm.com/downloads). Then, setup your local Git profile in the terminal:
 * `git config --global user.name "your-name"`
 * `git config --global user.email "your-email"`
-
+ 
 To check if Git is already configured you can type:
 `git config --list`
 
