@@ -268,7 +268,7 @@ There are several ways of copying code. One way is to "clone" the contents of th
 
 Open your terminal and clone the repository like so:
 `git clone https://github.com/ProjectURL`
-
+ 
 To work on the project, switch to the right folder:
 `cd ProjectURL`
 
