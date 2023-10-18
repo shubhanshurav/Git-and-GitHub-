@@ -1,4 +1,4 @@
-# Introduction to GitHub
+# Introduction to GitHub 
 
 This lesson covers the basics of GitHub, a platform to host and manage changes to your code.
 
